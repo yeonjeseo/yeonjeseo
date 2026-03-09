@@ -1,4 +1,4 @@
-## 안녕하세요! 주니어 개발자 서연제입니다.
+## 안녕하세요! 백엔드 개발자 서연제입니다.
 
 > The best time to plant a tree was twenty years ago. The second best time is now.
 
